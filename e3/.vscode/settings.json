@@ -1,0 +1,12 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\HP pavilion\\Documents\\_dev\\Nackademin\\CoC++\\exercises\\e3",
+            "binaryPath": "c:\\Users\\HP pavilion\\Documents\\_dev\\Nackademin\\CoC++\\exercises\\e3\\main.exe",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "time.h": "c"
+    }
+}

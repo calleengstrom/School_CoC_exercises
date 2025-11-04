@@ -1,0 +1,12 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\HP pavilion\\Documents\\_dev\\Nackademin\\CoC++\\exercises\\e4",
+            "binaryPath": "c:\\Users\\HP pavilion\\Documents\\_dev\\Nackademin\\CoC++\\exercises\\e4\\main",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "typeinfo": "c"
+    }
+}
