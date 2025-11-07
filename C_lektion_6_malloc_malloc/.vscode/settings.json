@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\calle\\Documents\\_dev\\Nackademin\\CoC++\\C_lektion_6_malloc_malloc",
+            "binaryPath": "c:\\Users\\calle\\Documents\\_dev\\Nackademin\\CoC++\\C_lektion_6_malloc_malloc\\main",
+            "binaryArgs": []
+        }
+    ]
+}
