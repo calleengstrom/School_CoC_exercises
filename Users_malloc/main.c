@@ -203,6 +203,7 @@ void decreaseMemory(User **uList, int *capacity)
     *uList = temp;
     }
 }
+
 int main(void)
 {
     int capacity = 1;

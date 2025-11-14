@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "typeinfo": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "bank.h": "c",
+        "accounts.h": "c",
+        "ctype.h": "c"
+    }
+}
